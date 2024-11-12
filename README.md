@@ -73,6 +73,3 @@ Social media links, such as our LinkedIn and Instagram pages, will be added soon
 
 لینک شبکه‌های اجتماعی، مانند صفحات LinkedIn و Instagram به زودی اضافه خواهد شد.
 
----
-
-این README به همراه ایموجی‌ها جذاب‌تر و قابل‌فهم‌تر خواهد بود.
